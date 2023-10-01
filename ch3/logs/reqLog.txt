@@ -93,3 +93,15 @@
 20230930	23:18:59	c1e84708-692a-446c-984a-6066373aaf6b	GET	undefined	/employees
 20230930	23:19:17	bbb80d7a-93a4-487d-81f1-cec292d8f69d	DELETE	undefined	/employees
 20230930	23:19:44	38934673-5131-4e23-b79e-9dfec38469d1	GET	undefined	/employees/1
+20230930	23:40:58	8dfc85ad-c170-48e0-9701-a44704f74f65	POST	undefined	/register
+20230930	23:45:20	ae576950-ff36-4ef8-b01f-9eec349af8f7	POST	undefined	/register
+20230930	23:45:59	86d1a939-dfcd-4b3c-a0d5-dd5b64b753de	POST	undefined	/register
+20230930	23:46:07	b11aa66e-5424-422f-986d-1f4e41669f8f	POST	undefined	/register
+20230930	23:46:20	de7a0e96-466d-45e3-9e43-c2cd5fa8eda7	POST	undefined	/register
+20230930	23:48:20	aeee20b2-a572-4a90-8b44-1289d50263d6	POST	undefined	/register
+20230930	23:57:50	3b99e7fe-a225-43bb-bad8-8b6782081ad9	POST	undefined	/auth
+20230930	23:58:31	a2a71d1a-cd61-4790-bfb9-586816c5a79a	POST	undefined	/auth
+20230930	23:59:19	0ae78be9-da77-43c1-bcd0-bda0afde0e68	POST	undefined	/auth
+20230930	23:59:26	e869caf5-38c6-4ca8-b87d-d93865106732	POST	undefined	/auth
+20230930	23:59:30	ed5e61ef-a6a5-4a72-9390-839e0309dc98	POST	undefined	/auth
+20230930	23:59:47	26b43620-2d45-438e-b3d2-e9fbd3b6afdd	POST	undefined	/register
