@@ -20,7 +20,8 @@ The next phase of my journey involved creating a Model-View-Controller (MVC) RES
 
 Finally, I was introduced to MongoDB, a popular NoSQL database, and Mongoose, an elegant MongoDB object modeling for Node.js. I learned about Mongoose data models and concluded with asynchronous CRUD operations.
  ##
-[<img src="https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg" width="163px" />](https://glitch.com/edit/#!/import/github/adnanzaki19/nodee)<br>
-**Click to Deploy**
+[<img src="https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg" width="163px" />](https://glitch.com/edit/#!/import/github/adnanzaki19/nodee)
+<br>
+**Click button to Deploy**
 ##
 It was pleasant to see how everything I learned and implemented fit together and worked nicely. Thanks😋
