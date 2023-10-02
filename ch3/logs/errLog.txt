@@ -1,1 +1,2 @@
 20230923	23:25:22	cf5f700a-b918-42e0-969c-be6eebc84233	Error: Not allowed by CORS
+20231001	18:57:05	45d22774-1f46-4278-b69e-0667f77001ba	TypeError: res.sendSatatus is not a function
