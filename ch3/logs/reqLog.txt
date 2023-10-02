@@ -186,3 +186,5 @@
 20231001	20:44:37	c42b5047-2b64-4b62-b601-9af27ce8349c	POST	undefined	/auth
 20231001	20:44:51	de2316d8-85f4-460b-a2ee-277a44f9d53e	POST	undefined	/employees
 20231001	20:44:54	2dccf850-7115-4f63-8311-42fc37098598	DELETE	undefined	/employees
+20231001	23:43:03	26cc9a13-e37e-47c8-9e6f-80b4c9330678	POST	undefined	/register
+20231001	23:43:40	2911572d-1c21-4776-bb9c-ccad1733c06b	POST	undefined	/register
